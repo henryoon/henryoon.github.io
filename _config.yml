@@ -79,7 +79,11 @@ content:
         quote: >
           석사 졸업 논문: 가상 현실 기반 원격 제어 시 가상-실제 로봇 간 자세 추정 불일치 최소화 방법에 관한 연구
         description: | # this will include new lines to allow paragraphs
-          주요 연구 과제
+          지능형 로봇 시스템 연구실에서 '디지털 트윈 기반 물류 핸들링' 연구를 수행했습니다. 해당 연구는 <strong>메커니즘</strong>, 인공지능, <strong>원격지휘</strong>, 테스트 벤치 분야로 구분되어 수행되었으며, 이 중 <strong>메커니즘(모바일 매니퓰레이션 및 피킹 메커니즘)</strong>과 <strong>원격지휘(로봇 운영 딜레마 극복을 위한 원격제어 인터페이스)</strong>를 주로 담당하며 연구를 수행했습니다.
+
+          석사 졸업 논문의 주제는 <strong>로봇 자세 추정 정확도 향상을 위해 3단계로 구성된 방법을 제안</strong>하는 것입니다. 
+          3단계: 1. YOLO v11 instance segmentation을 통한 객체 인식, 2. 원격 제어자의 의도 파악 알고리즘을 통한 목표 상자 식별, 3. 목표 상자 기준 로봇 자세 업데이트.
+          기존 실내 로봇 자세 추정 알고리즘인 Landmark-based localization 대비 불일치율이 <strong>87.5%</strong> 감소했으며, 작업 성공률이 <strong>30%</strong> 향상되는 성과를 거두었습니다.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
