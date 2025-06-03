@@ -88,25 +88,17 @@ content:
   - title: Awards
     layout: text
     content: |
-      <div>
-        <strong>2021.10.04.</strong> '국제 대학생 창작 자동차 경진대회'<br>
-        자율주행자동차 창작기술부문 우수상 [한국자동차안전학회]
-      </div>
-      <br>
-      <div>
-        <strong>2022.04.28.</strong> '대한기계학회 2021 학술대회'<br>
-        우수논문상 [대한기계학회]
-      </div>
-      <br>
-      <div>
-        <strong>2022.11.28.</strong> '로봇제조공정활용 경진대회'<br>
-        최우수상 [한국전자기술연구원, 한국로봇학회]
-      </div>
-      <br>
-      <div>
-        <strong>2022.12.14.</strong> '제 12회 숭실공학상'<br>
-        우수상 [숭실대학교]
-      </div>
+      <span style="font-size:18px;"><strong>2021.10.04.</strong> '국제 대학생 창작 자동차 경진대회'</span><br>
+      <span style="font-size:16px;">자율주행자동차 창작기술부문 우수상 [한국자동차안전학회]</span><br><br>
+
+      <span style="font-size:18px;"><strong>2022.04.28.</strong> '대한기계학회 2021 학술대회'</span><br>
+      <span style="font-size:16px;">우수논문상 [대한기계학회]</span><br><br>
+
+      <span style="font-size:18px;"><strong>2022.11.28.</strong> '로봇제조공정활용 경진대회'</span><br>
+      <span style="font-size:16px;">최우수상 [한국전자기술연구원, 한국로봇학회]</span><br><br>
+
+      <span style="font-size:18px;"><strong>2022.12.14.</strong> '제 12회 숭실공학상'</span><br>
+      <span style="font-size:16px;">우수상 [숭실대학교]</span>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
