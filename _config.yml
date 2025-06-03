@@ -55,6 +55,31 @@ about_content: | # this will include new lines to allow paragraphs
   저는 <mark>제어</mark>, <mark>로봇 비전</mark>, <mark>Visual SLAM</mark> 파트에 강점을 지니고 있습니다.
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 숭실대학교
+        caption: 2017.03 - 2023.02
+        sub_title: 기계공학부
+        quote: >
+          학사 졸업 논문: RGB-D 카메라 탑재 협동형 머니퓰레이터 기반의 팔레트 상에 무작위로 배열된 공작물의 선택적 픽 앤 플레이스 구현 방법
+        description: | # this will include new lines to allow paragraphs
+          학부 3학년 때 '국제 대학생 창작 자동차 경진대회'를 준비하면서 자율주행 시스템 개발 프로젝트를 진행했습니다. 해당 프로젝트에서 <mark>Controller</mark>, <mark>Object Detection</mark>, <mark>SLAM</mark> 파트를 담당했으며, 제어 정확도 및 물체 인식 정확도 모두 <mark>90%</mark> 이상 달성한 성과를 거두었습니다.
+
+          학부 4학년 때 지능형 로봇 시스템 연구실의 학부 인턴으로 있으면서 '로봇 제조 공정 활용 경진대회'를 참가했습니다. 해당 경진대회를 준비하면서 <mark>Object Detection</mark>, <mark>Path Planning</mark>을 담당했으며, 12개의 공작물을 pick-and-place하는데 첫 시도(4분대) 대비 약 <mark>50%</mark> 단축 시킨 성과를 거두었습니다.
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 숭실대학교 일반대학원
+        caption: 2023.03 - 2025.02
+        sub_title: 기계공학과
+        quote: >
+          석사 졸업 논문: 가상 현실 기반 원격 제어 시 가상-실제 로봇 간 자세 추정 불일치 최소화 방법에 관한 연구
+        description: | # this will include new lines to allow paragraphs
+          주요 연구 과제
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
