@@ -65,9 +65,9 @@ content:
         quote: >
           학사 졸업 논문: RGB-D 카메라 탑재 협동형 머니퓰레이터 기반의 팔레트 상에 무작위로 배열된 공작물의 선택적 픽 앤 플레이스 구현 방법
         description: | # this will include new lines to allow paragraphs
-          학부 3학년 때 '국제 대학생 창작 자동차 경진대회'를 준비하면서 자율주행 시스템 개발 프로젝트를 진행했습니다. 해당 프로젝트에서 <mark>Controller</mark>, <mark>Object Detection</mark>, <mark>SLAM</mark> 파트를 담당했으며, 제어 정확도 및 물체 인식 정확도 모두 <mark>90%</mark> 이상 달성한 성과를 거두었습니다.
+          학부 3학년 때 '국제 대학생 창작 자동차 경진대회'를 준비하면서 자율주행 시스템 개발 프로젝트를 진행했습니다. 해당 프로젝트에서 <strong>Controller</strong>, <strong>Object Detection</strong>, <strong>SLAM</strong> 파트를 담당했으며, 제어 정확도 및 물체 인식 정확도 모두 <strong>90%</strong> 이상 달성한 성과를 거두었습니다.
 
-          학부 4학년 때 지능형 로봇 시스템 연구실의 학부 인턴으로 있으면서 '로봇 제조 공정 활용 경진대회'를 참가했습니다. 해당 경진대회를 준비하면서 <mark>Object Detection</mark>, <mark>Path Planning</mark>을 담당했으며, 12개의 공작물을 pick-and-place하는데 첫 시도(4분대) 대비 약 <mark>50%</mark> 단축 시킨 성과를 거두었습니다.
+          학부 4학년 때 지능형 로봇 시스템 연구실의 학부 인턴으로 있으면서 '로봇 제조 공정 활용 경진대회'를 참가했습니다. 해당 경진대회를 준비하면서 <strong>Object Detection</strong>, <strong>Path Planning</strong>을 담당했으며, 12개의 공작물을 pick-and-place하는데 첫 시도(4분대) 대비 약 <strong>50%</strong> 단축 시킨 성과를 거두었습니다.
 
   - title: Education (Graduate School)
     layout: list # Type of content section (list/text)
@@ -98,7 +98,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <strong>React</strong> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
