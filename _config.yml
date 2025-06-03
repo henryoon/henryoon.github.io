@@ -86,14 +86,12 @@ content:
           기존 실내 로봇 자세 추정 알고리즘인 Landmark-based localization 대비 불일치율이 <strong>87.5%</strong> 감소했으며, 작업 성공률이 <strong>30%</strong> 향상되는 성과를 거두었습니다.
 
   - title: Awards
-    layout: list
-    content: 
-      - layout: left
-        title: 2021.10.04. 
-      - layout: middle
-        title: 국제 대학생 창작 자동차 경진대회, 자율주행자동차 창작기술부문 우수상
-      - layout: right
-        title: 한국자동차안전학회
+    layout: text
+    content: |
+      - 2021.10.04.    '국제 대학생 창작 자동차 경진대회'    자율주행자동차 창작기술부문 우수상    [한국자동차안전학회]
+      - 2022.04.28.    '대한기계학회 2021 학술대회'         우수논문상                          [대한기계학회]
+      - 2022.11.28.    '로봇제조공정활용 경진대회'           최우수상                           [한국전자기술연구원, 한국로봇학회]
+      - 2022.12.14.    '제 12회 숭실공학상'                 우수상                             [숭실대학교]
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
