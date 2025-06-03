@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   저는 <mark>제어</mark>, <mark>로봇 비전</mark>, <mark>Visual SLAM</mark> 파트에 강점을 지니고 있습니다.
 
 content:
-  - title: Education # Title for the section
+  - title: Education (University) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -69,6 +69,7 @@ content:
 
           학부 4학년 때 지능형 로봇 시스템 연구실의 학부 인턴으로 있으면서 '로봇 제조 공정 활용 경진대회'를 참가했습니다. 해당 경진대회를 준비하면서 <mark>Object Detection</mark>, <mark>Path Planning</mark>을 담당했으며, 12개의 공작물을 pick-and-place하는데 첫 시도(4분대) 대비 약 <mark>50%</mark> 단축 시킨 성과를 거두었습니다.
 
+  - title: Education (Graduate School)
     layout: list # Type of content section (list/text)
     content:
       - layout: left
