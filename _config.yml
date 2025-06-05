@@ -179,11 +179,20 @@ content:
       <span style="font-size:16px;"><strong>2021.04. ~ 2021.04. 양천중앙도서관</strong></span><br>
       <span style="font-size:14px;">방문자 발열체크, 자료실 책 소독 및 자료 정리 [20h]</span>
   
-  - title: Military service Volunteer Experience
+  - title: Military service
     layout: text
     content: |
       <span style="font-size:16px;"><strong>2018.06.25. ~ 2020.05.07</strong></span><br>
       <span style="font-size:14px;">공군 만기전역</span>
+
+  - title: Skills
+    layout: text
+    content: |
+      <span style="font-size:16px;"><strong>AutoCAD, Inventor, SolidWorks</strong></span><br>
+      <span style="font-size:16px;"><strong>python3, c++</strong></span><br>
+      <span style="font-size:16px;"><strong>Linux</strong></span><br>
+      <span style="font-size:16px;"><strong>MS Powerpoint, Word, Excel</strong></span>
+      <span style="font-size:16px;"><strong>Unity</strong></span><br>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
