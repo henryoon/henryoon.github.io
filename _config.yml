@@ -94,7 +94,7 @@ content:
         caption: 2021. - 2024.
         sub_title: 이동훈 교수
         description: | # this will include new lines to allow paragraphs
-          지능로봇 시스템의 자동화 부문 연구를 진행하고 있으며 로보틱스, 인공지능 등 다양한 분야에 지식이 있습니다. 주요연구과제는 <strong>‘산업 분야에서의 지능로봇 시스템 통합 및 자동화’</strong>이며 RGB-D camera, IMU, LiDAR, manipulator를 탑재한 로봇 플랫폼을 기반으로 도/소매, 제조, 가정 환경에서 로봇 시스템의 통합을 목표로 합니다. 주요 연구의 기반을 다지기 위해 다음과 같은 역량을 쌓았습니다.
+          지능로봇 시스템의 자동화 부문 연구를 진행하고 있으며 로보틱스, 인공지능 등 다양한 분야에 지식이 있습니다. 주요연구과제는 <strong>‘산업 분야에서의 지능로봇 시스템 통합 및 자동화’</strong>이며 RGB-D camera, IMU, LiDAR, manipulator를 탑재한 로봇 플랫폼을 기반으로 도/소매, 제조, 물류 환경에서 로봇 시스템의 통합을 목표로 합니다. 주요 연구의 기반을 다지기 위해 다음과 같은 역량을 쌓았습니다.
           - <strong>실시간 인식 알고리즘 최적화를 통한 주변 환경/물체 인식 정확도 90% 이상 달성</strong><br>
           ‘2021 국제 대학생 창작자동차 경진대회’를 준비하며 SLAM, camera - 3D LiDAR fusion, YOLO v4와 같은 실시간 주변 환경/물체 인식 알고리즘을 활용하여 인식 정확도를 향상시키는 방법에 대해 고찰했습니다. 각 알고리즘의 파라미터 최적화를 진행한 결과 localization 및 물체 인식 정확도 모두 90% 이상 달성하는 성과를 보였습니다.
           - <strong>객체 인식 및 task/path planning 최적화를 통한 공작물의 pick-and-place 수행 시간 50% 단축</strong><br>
