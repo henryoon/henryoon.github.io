@@ -85,21 +85,6 @@ content:
           3단계: 1. YOLO v11 instance segmentation을 통한 객체 인식, 2. 원격 제어자의 의도 파악 알고리즘을 통한 목표 상자 식별, 3. 목표 상자 기준 로봇 자세 업데이트.
           기존 실내 로봇 자세 추정 알고리즘인 Landmark-based localization 대비 불일치율이 <strong>87.5%</strong> 감소했으며, 작업 성공률이 <strong>30%</strong> 향상되는 성과를 거두었습니다.
 
-  - title: Awards
-    layout: text
-    content: |
-      <span style="font-size:16px;"><strong>2021.10.04.</strong> '국제 대학생 창작 자동차 경진대회'</span><br>
-      <span style="font-size:14px;">자율주행자동차 창작기술부문 우수상 [한국자동차안전학회]</span><br><br>
-
-      <span style="font-size:16px;"><strong>2022.04.28.</strong> '대한기계학회 2021 학술대회'</span><br>
-      <span style="font-size:14px;">우수논문상 [대한기계학회]</span><br><br>
-
-      <span style="font-size:16px;"><strong>2022.11.28.</strong> '로봇제조공정활용 경진대회'</span><br>
-      <span style="font-size:14px;">최우수상 [한국전자기술연구원, 한국로봇학회]</span><br><br>
-
-      <span style="font-size:16px;"><strong>2022.12.14.</strong> '제 12회 숭실공학상'</span><br>
-      <span style="font-size:14px;">우수상 [숭실대학교]</span>
-
   - title: Academic Publications & Copyrights
     layout: text
     content: |
@@ -126,6 +111,21 @@ content:
       
       <span style="font-size:16px;"><strong>2024.12.20.</strong> '원격 제어자의 움직임 분석을 통한 목표 물체 식별 기술'</span><br>
       <span style="font-size:14px;">[저작권]</span>
+
+  - title: Awards
+    layout: text
+    content: |
+      <span style="font-size:16px;"><strong>2021.10.04.</strong> '국제 대학생 창작 자동차 경진대회'</span><br>
+      <span style="font-size:14px;">자율주행자동차 창작기술부문 우수상 [한국자동차안전학회]</span><br><br>
+
+      <span style="font-size:16px;"><strong>2022.04.28.</strong> '대한기계학회 2021 학술대회'</span><br>
+      <span style="font-size:14px;">우수논문상 [대한기계학회]</span><br><br>
+
+      <span style="font-size:16px;"><strong>2022.11.28.</strong> '로봇제조공정활용 경진대회'</span><br>
+      <span style="font-size:14px;">최우수상 [한국전자기술연구원, 한국로봇학회]</span><br><br>
+
+      <span style="font-size:16px;"><strong>2022.12.14.</strong> '제 12회 숭실공학상'</span><br>
+      <span style="font-size:14px;">우수상 [숭실대학교]</span>
 
   - title: Certificate
     layout: text
