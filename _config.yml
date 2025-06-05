@@ -139,6 +139,12 @@ content:
       <span style="font-size:16px;"><strong>2024.10.27.</strong> 'TOEIC SPEAKING'</span><br>
       <span style="font-size:14px;">AL 160 [ETS]</span>
 
+  - title: Military service
+    layout: text
+    content: |
+      <span style="font-size:16px;"><strong>2018.06.25. ~ 2020.05.07</strong> '자동차운전면허'</span><br>
+      <span style="font-size:14px;">공군 만기전역</span>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
