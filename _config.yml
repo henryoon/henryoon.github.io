@@ -9,6 +9,7 @@ version: 2
 name: 윤호진
 title: 1998.03.28.
 email: yhj14531@gmail.com
+Tel: 010-4746-1453
 website: https://www.notion.so/Hojin-Yoon-c4d882a41ab94ec6b739af49d160552c
 
 # Dark Mode (true/false/never)
@@ -152,7 +153,13 @@ content:
           - Object detection: RGB-D camera & 3D LiDAR fusion을 통한 물체 인식
           - SLAM: LIO-SAM 알고리즘 기반의 point cloud map 생성 최적화
 
-  - title: Military service
+  - title: Volunteer Experience
+    layout: text
+    content: |
+      <span style="font-size:16px;"><strong>2021.04. ~ 2021.04. 양천중앙도서관</strong></span><br>
+      <span style="font-size:14px;">방문자 발열체크, 자료실 책 소독 및 자료 정리 [20h]</span>
+  
+  - title: Military service Volunteer Experience
     layout: text
     content: |
       <span style="font-size:16px;"><strong>2018.06.25. ~ 2020.05.07</strong></span><br>
