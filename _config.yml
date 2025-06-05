@@ -89,7 +89,7 @@ content:
   - title: Research Experience
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: 지능형로봇시스템 LAB
         caption: 2021. - 2024.
         sub_title: 이동훈 교수
