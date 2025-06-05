@@ -139,6 +139,19 @@ content:
       <span style="font-size:16px;"><strong>2024.10.27.</strong> 'TOEIC SPEAKING'</span><br>
       <span style="font-size:14px;">AL 160 [ETS]</span>
 
+  - title: Extracurricular Activities
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ACCA
+        caption: 2021.03 - 2022.12
+        sub_title: 학회 활동
+        description: | # this will include new lines to allow paragraphs
+          자율주행을 위한 제어기 및 물체 인식 알고리즘 개발
+          - Controller: Speed controller, stanley method를 사용하여 ERP42의 신호 제어 및 제어 동작 수행
+          - Object detection: RGB-D camera & 3D LiDAR fusion을 통한 물체 인식
+          - SLAM: LIO-SAM 알고리즘 기반의 point cloud map 생성 최적화
+
   - title: Military service
     layout: text
     content: |
