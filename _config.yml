@@ -142,7 +142,7 @@ content:
   - title: Military service
     layout: text
     content: |
-      <span style="font-size:16px;"><strong>2018.06.25. ~ 2020.05.07</strong> '자동차운전면허'</span><br>
+      <span style="font-size:16px;"><strong>2018.06.25. ~ 2020.05.07</strong></span><br>
       <span style="font-size:14px;">공군 만기전역</span>
 
   - title: Projects # Title for the section
@@ -172,9 +172,6 @@ content:
       - 2022.11.28. '로봇제조공정활용 경진대회' 최우수상 [한국전자기술연구원, 한국로봇학회]
       - 2022.12.14. '제 12회 숭실공학상' 우수상 [숭실대학교]
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
